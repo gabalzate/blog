@@ -4,6 +4,8 @@
 + Es un mundo donde el conocimiento avanzado es un commodity.
 + Hay un trecho muy largo entre saber algo y llevarlo a la realidad.
 + Es muy diferente la teoría de la práctica.
+
+
 + Tendrá valor el hecho de llevar las cosas a la práctica, no de crear mundos imaginarios de posibilidades.
 + Es de mucho valor dedicarse a iterar y aprender el 10 mil horas, pero el mayor valor esta en hacer una iteración con sentido.
 + El aprender consientemente se volverá la forma más rápida de crecer realmente.
