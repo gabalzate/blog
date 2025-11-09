@@ -1,6 +1,8 @@
 
 Lo que no se mide, no mejora.  Es una básica en ingeniería y en multitud de ciencias, y agregaría, lo que se mide mal, siempre empeora.  
 
+
+
 Inicio así con una idea en mente, en las encuestas y análisis del denominado parte de una mala medición, intentando abarcar en una masa densa miles de personas que no tienen nada en común poniendo la misma etiqueta a todos, y como alguna persona inteligente dijo, los límites de mi lenguaje son los límites de mi mundo.
 
 El centro político inicia como una masa resentida con el sistema que sabe una cosa muy básica, ellos no son los que escogen un gobernante, tienen la oportunidad de escoger entre lo que los que los diversos tipos de élites le permitan escoger (élites políticas, económicas, culturales, académicas), debido a esto no hay necesidad de saber por quién votar unos meses antes, importará faltando una semana.
