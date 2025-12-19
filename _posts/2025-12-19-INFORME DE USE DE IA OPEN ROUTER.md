@@ -1,6 +1,8 @@
 
 
 Esta interesante el estudio "State of AI" de OpenRouter. Esta es una empresa dedicada a servir modelos de IA y a través del consumo de sus clientes analizaron 100 trillones de tokens para saber que hace realmente la gente con la IA.  Tiene datos interesantes.
+
+
 + Del total de uso, el 30% ya lo tienen modelos open source, vs el 70% propietarios.  Encabezando el movimiento libre los chinos con DeepSeek y Qwen.
 + No son los modelos más avanzados los que se usan sino los de tamaño medio (Pequeño < 15B, 15 <Medio<70B, 70B<Grande).
 + Los modelos abiertos se usan en su mayoría 50% para cosas creativas.
